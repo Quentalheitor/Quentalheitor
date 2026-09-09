@@ -17,18 +17,18 @@ Focusing on the convergence of Artificial Intelligence and Cybersecurity, with t
 ### Technical Stack
 
 * **Languages:** Python, Ruby, JavaScript, SQL, Bash
-* **Machine Learning & AI:** PyTorch, CUDA, Whisper, Hugging Face Transformers
+* **Machine Learning & AI:** PyTorch, CUDA, Scikit-learn, Hugging Face Transformers
 * **Web & Frameworks:** React, Vite, Ruby on Rails
 * **Databases:** PostgreSQL, SQLite
-* **Environments & Tools:** Linux (Mint, Kali Linux), Git, Microsoft Azure, PulseAudio / ALSA
+* **Environments & Tools:** Linux (Mint, Kali Linux), Git, Microsoft Azure
 
 ---
 
 ### Featured Projects
 
-#### Local Speech-to-Text Transcription Engine
-A standalone speech recognition and audio capture pipeline running OpenAI's Whisper model locally via PyTorch and CUDA. Interfaces directly with Linux system audio monitors to transcribe live or captured streams with low latency and complete data privacy.
-* **Stack:** Python, PyTorch, CUDA, SoundCard/PulseAudio
+#### Buffet Brain
+An investor-profile classification and financial analytics engine leveraging LSTM neural networks for time-series forecasting. Integrates risk categorization, time-series market charting, and automated portfolio allocation reasoning.
+* **Stack:** Python, PyTorch, Pandas, NumPy, Time-Series Modeling
 
 #### Jarvis Task Automation Framework
 A modular automation framework designed to orchestrate background scripts, manage external API calls, and streamline developer workflows across system directories.
@@ -49,6 +49,6 @@ A full-stack healthcare management platform engineered to streamline hospital ad
 ---
 
 ### Connect
-
+y
 * **LinkedIn:** https://www.linkedin.com/in/heitor-quental-887864382/
 * **Email:** heitorquental321@gmail.com
