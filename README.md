@@ -49,6 +49,6 @@ A full-stack healthcare management platform engineered to streamline hospital ad
 ---
 
 ### Connect
-y
+
 * **LinkedIn:** https://www.linkedin.com/in/heitor-quental-887864382/
 * **Email:** heitorquental321@gmail.com
