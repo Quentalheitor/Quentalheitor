@@ -34,9 +34,9 @@ A standalone speech recognition and audio capture pipeline running OpenAI's Whis
 A modular automation framework designed to orchestrate background scripts, manage external API calls, and streamline developer workflows across system directories.
 * **Stack:** Python, Shell/Bash, REST APIs
 
-#### Canto do Bem Platform
-A web platform built to connect local volunteers with non-governmental organizations (NGOs), featuring structured registration flows, automated input sanitation, and relational data management.
-* **Stack:** Ruby on Rails, JavaScript, PostgreSQL
+#### Glysera
+A full-stack healthcare management platform engineered to streamline hospital administrative workflows, including patient intake registration, medical equipment tracking, and clinical observation logging through dedicated API endpoints and a responsive client interface.
+* **Stack:** Ruby on Rails, React, Vite, PostgreSQL
 
 ---
 
