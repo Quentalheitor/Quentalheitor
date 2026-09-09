@@ -4,6 +4,8 @@ Information Systems student at Universidade Federal Rural de Pernambuco (UFRPE) 
 
 Focusing on the convergence of Artificial Intelligence and Cybersecurity, with technical emphasis on adversarial machine learning, red teaming methodologies, threat modeling, and secure software development. Experienced in building automated system pipelines, deep learning implementations, and full-stack web applications in Unix-like environments.
 
+Check out my [deployed architecture and AI portfolio](https://quentalheitor.github.io/) to see my latest work.
+
 ---
 
 ### Core Areas of Research & Interest
